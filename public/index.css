@@ -1,14 +1,28 @@
-#img {
-  display: block;
-  margin: auto;
-  height: 128px;
-  width: 128px;
-  padding: 2rem;
-}
-
-#canvas {
-  display: block;
-  margin: 2rem auto;
-  width: 540px;
-  height: 540px;
-}
+    body, html {   
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-image: linear-gradient(blue, yellow);
+        font-size: x-large;
+    }
+    img {
+        padding-bottom: 20px;
+    }
+    ul {
+        list-style: none
+    }
+    button {
+        margin-left: 10px;
+    }
+    #input {
+        width: 50%;
+    }
+    .center {
+        border: 5px solid;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 10px;
+    }
