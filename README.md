@@ -22,3 +22,5 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
+preview: https://todo-list-which-you-will-never-use.netlify.app/
